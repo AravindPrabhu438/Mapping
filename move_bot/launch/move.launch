@@ -1,0 +1,4 @@
+<launch>
+ <node pkg="move_bot" type="trajectory.py" name="obstacle_avoidance" output="screen">
+ </node>
+</launch>
